@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronVerweg
 - 👀 I’m interested in embedded Systems, AI, Linux and Python
-- 🌱 I’m currently learning yocto, C/C++
+- 🌱 I’m currently learning yocto, C/C++, Python, Linux
 - 💞️ I’m looking to collaborate on yocto
 - 📫 How to reach me Aaron-Verweg@gmx.de
 
